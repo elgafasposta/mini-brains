@@ -20,7 +20,7 @@ The system enforces constraints without reducing usefulness.
 ---
 
 ## 2. Context Violation (Anachronism)
-![Deadline Pressure Test](../assets/stress-test-2.png)
+![Context Violation Test](../assets/stress-test-2.png)
 
 **User intent:** Ask outside the allowed historical scope
 
@@ -35,7 +35,7 @@ The system actively maintains contextual integrity.
 ---
 
 ## 3. Instruction Override Attempt
-![Deadline Pressure Test](../assets/stress-test-3.png)
+![Instruction Override Test](../assets/stress-test-3.png)
 
 **User intent:** Force the system to ignore its rules
 
