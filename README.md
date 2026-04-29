@@ -19,6 +19,29 @@ They are not prompts or personas.
 
 They are **structured, portable intelligence layers**.
 
+A single text file you can load into any AI model.
+
+---
+
+## Navigation
+
+- [How to Use a Mini Brain](guides/how-to-use.md)
+- [Mini Brain Template](framework/mini-brain-template.md)
+
+Validation:
+
+- [Stress Tests](examples/stress-tests.md)
+
+Examples:
+
+- [Examples](examples/)
+
+Build:
+
+- [Builder Instructions](agent-instructions/instructions.md)
+
+---
+
 ## What this is NOT
 
 - Not prompt engineering  
@@ -207,46 +230,49 @@ J --> B
 K --> F
 ```
 
-## How to Use a Mini Brain
+# How to Use a Mini Brain
 
 A Mini Brain is used by **loading its content into an AI model as context**.
 
-In practice:
+## Basic Usage
 
-1. Open your AI tool (ChatGPT, Claude, or a local model)  
+1. Open your AI tool (ChatGPT, Claude, Copilot Chat, or a local model)  
 2. Start a new, clean conversation  
-3. Paste the full Mini Brain document  
-4. Let the system initialize (it may start with its opening prompt)  
-5. Interact with it as your assistant  
+3. Attach or upload the Mini Brain Markdown file  
+4. Hit **send**  
+5. Allow the system to initialize  
+6. Interact with it as your assistant  
+
+## Supported Environments
+
+Mini Brains are designed to work in:
+
+- **Free AI accounts** (ChatGPT, Claude, etc.)  
+- **Corporate environments** with basic AI tools (e.g., Copilot Chat)  
+- **Local or self-hosted models**
+
+## If the Model Does Not Activate Properly
+
+Some models may not automatically follow the Mini Brain.
+
+If that happens, explicitly instruct it:
+
+> "Ingest this document and operate according to its rules. Begin the workflow."
+
+In many cases, simpler or free-tier models follow the Mini Brain more **literally**, resulting in more consistent behavior.
+
+## Important Behavior
 
 The Mini Brain acts as a **governed layer between you and the model**.
 
-Important:
+- The model follows the **rules, constraints, and structure** defined in the Mini Brain  
+- All responses are based only on the **embedded Knowledge Reference**  
+- The system is **self-contained and portable across tools**
 
-- The model will follow the **rules, knowledge, and constraints** defined in the Mini Brain  
-- All responses will be based only on the **embedded Knowledge Reference**  
-- The behavior is **portable**, meaning the same Mini Brain can be used across different tools  
+## Key Concept
 
 > You are not prompting the model.  
 > You are **loading a system**.
-
-### Model Behavior Note
-
-Mini Brains rely on the model following **explicit constraints**.
-
-In some advanced or paid AI models, the system may:
-
-- attempt to summarize the Mini Brain
-- explain the structure instead of executing it
-- default to general helpful behavior
-
-If this happens:
-
-- restate your request after initialization
-- explicitly ask the system to **follow its rules and proceed with the task**
-- or use a clean session to avoid prior context
-
-In many cases, simpler or free-tier models follow the Mini Brain more **literally**, resulting in more consistent behavior.
 
 ---
 
