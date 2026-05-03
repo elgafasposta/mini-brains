@@ -31,25 +31,25 @@ Los Mini Brains no son simples *prompts*; son sistemas portables diseñados para
 ## Navegación rápida
 
 ### Primeros pasos
-- [Cómo usar un Mini Brain](../guides/how-to-use.md)
-- [Workflow de Mini Brains](../workflow/mini-brains-workflow.md)
-- [Workflow simplificado](../workflow/simplified-workflow.md)
+- [Cómo usar un Mini Brain](guides/how-to-use.md)
+- [Workflow de Mini Brains](workflow/mini-brains-workflow.md)
+- [Workflow simplificado](workflow/simplified-workflow.md)
 - [Preguntas Frecuentes (FAQ)](FAQ_ES.md)
 
 ### Aula y ejemplos de aprendizaje
-- [Aula gamificada](../guides/gamified-classroom.md)
+- [Aula gamificada](guides/gamified-classroom.md)
 
 ### Conceptos clave
-- [AIAS y Mini Brains](../concepts/aias.md)
-- [Otros casos de uso](../concepts/use-cases.md)
+- [AIAS y Mini Brains](concepts/aias.md)
+- [Otros casos de uso](concepts/use-cases.md)
 
 ### Creá tus propios Mini Brains
-- [Meta Mini Brain](../tools/meta-mini-brain.md)
-- [Template de Mini Brain](mini-brain-template-es.md)
-- [Instrucciones para agentes (Builder)](agent-instructions/instructions.md)
+- [Meta Mini Brain](tools/meta-mini-brain.md)
+- [Template de Mini Brain](tools/mini-brain-template-es.md)
+- [Instrucciones para agentes (Builder)](../agent-instructions/instructions.md)
 
 ### Validación
-- [Pruebas de Estrés (Stress Tests)](../workflow/stress-tests.md)
+- [Pruebas de Estrés (Stress Tests)](workflow/stress-tests.md)
 
 ---
 
@@ -145,7 +145,7 @@ Los estudiantes pueden interactuar con distintos perfiles:
 
 El aula deja de ser estática para convertirse en un ecosistema donde se comparan ideas y se cuestionan supuestos a través de la interacción directa.
 
-[Explorar el aula gamificada](../guides/gamified-classroom.md)
+[Explorar el aula gamificada](guides/gamified-classroom.md)
 
 ---
 
@@ -173,7 +173,7 @@ El educador decide qué es lo importante y cómo debe ser la experiencia; el age
 
 Si querés experimentar de inmediato, usá el **Meta Mini Brain**. Solo tenés que proporcionar el objetivo y un poco de contexto, y la IA generará un prototipo funcional para vos. Es ideal para probar ideas y entender la lógica del sistema en pocos minutos.
 
-[Workflow simplificado](../workflow/simplified-workflow.md) | [Meta Mini Brain](../tools/meta-mini-brain.md)
+[Workflow simplificado](workflow/simplified-workflow.md) | [Meta Mini Brain](tools/meta-mini-brain.md)
 
 ---
 
@@ -181,7 +181,7 @@ Si querés experimentar de inmediato, usá el **Meta Mini Brain**. Solo tenés q
 
 Utilizamos el framework **AIAS** (*Artificial Intelligence Assessment Scale*) no solo como etiqueta, sino como lógica operativa. El nivel AIAS define activamente qué puede apoyar el sistema y qué debe rechazar, garantizando que el estudiante mantenga la responsabilidad de su propio aprendizaje.
 
-[Más sobre AIAS en Mini Brains](../concepts/aias.md)
+[Más sobre AIAS en Mini Brains](concepts/aias.md)
 
 ---
 
@@ -193,7 +193,7 @@ La arquitectura de Mini Brains es transversal y puede adaptarse a:
 - **Simulaciones:** Roleplay con clientes o *stakeholders*.
 - **Gestión de procesos:** Guías paso a paso para flujos de trabajo complejos.
 
-[Otros casos de uso](../concepts/use-cases.md)
+[Otros casos de uso](concepts/use-cases.md)
 
 ---
 
@@ -205,7 +205,7 @@ Es tan simple como abrir una conversación nueva, adjuntar el archivo `.md` y en
 
 Funciona en ChatGPT, Claude, Copilot y modelos locales (Ollama) sin necesidad de configuraciones especiales.
 
-[Guía de uso](../guides/how-to-use.md)
+[Guía de uso](guides/how-to-use.md)
 
 ---
 
@@ -216,7 +216,7 @@ Un Mini Brain debe ser resiliente. Nuestras pruebas evalúan cómo responde el s
 - Preguntar fuera del contexto permitido.
 - Anular las instrucciones del sistema (*Prompt injection*).
 
-[Ver resultados de las pruebas](../workflow/stress-tests.md)
+[Ver resultados de las pruebas](workflow/stress-tests.md)
 
 ---
 
