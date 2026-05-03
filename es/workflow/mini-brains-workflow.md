@@ -1,6 +1,6 @@
 # Workflow de Mini Brains
 
-![Workflow de Mini Brains](es/assets/mini-brain-workflow.png)
+![Workflow de Mini Brains](../assets/mini-brain-workflow.png)
 
 ---
 
@@ -61,7 +61,7 @@ El agente lee tu material, ayuda a organizarlo, conecta ideas y mantiene todo al
 
 Si querés ver el archivo de instrucciones real que guía al agente en este proceso, consultá:
 
-[Instrucciones para construir Mini Brains](agent-instructions/instructions.md)
+[Instrucciones para construir Mini Brains](../../agent-instructions/instructions.md)
 
 ---
 
@@ -148,4 +148,4 @@ Podés usar el **Meta Mini Brain**. En lugar de construir todo el sistema, solo 
 
 La IA se encargará de generar un Mini Brain funcional para vos.
 
-[Workflow simplificado](es/simplified-workflow.md)
+[Workflow simplificado](simplified-workflow.md)
