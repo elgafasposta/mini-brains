@@ -113,6 +113,6 @@ Los Mini Brains no están limitados por el tema, sino por la claridad con la que
 
 ## Páginas relacionadas
 
-- [Ejemplo de aula gamificada](es/guides/gamified-classroom.md)
-- [Workflow de Mini Brains](es/workflow/mini-brains-workflow.md)
-- [Meta Mini Brain](es/tools/meta-mini-brain.md)
+- [Ejemplo de aula gamificada](../guides/gamified-classroom.md)
+- [Workflow de Mini Brains](../workflow/mini-brains-workflow.md)
+- [Meta Mini Brain](../tools/meta-mini-brain.md)
