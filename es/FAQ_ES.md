@@ -16,7 +16,7 @@ Está en **cómo los estudiantes razonan, preguntan, revisan y mejoran**.
 
 Para entender mejor cómo se usan en una clase, podés ver la guía de aula:
 
-[Usar Mini Brains para gamificar el aula](es/guides/gamified-classroom.md)
+[Usar Mini Brains para gamificar el aula](guides/gamified-classroom.md)
 
 ## ¿La IA solo busca palabras clave exactas en la respuesta del estudiante?
 
@@ -32,7 +32,7 @@ Los estudiantes pueden responder con su propia voz, siempre que el razonamiento 
 
 Esta lógica se explica con más detalle en la página sobre AIAS:
 
-[AIAS y Mini Brains](es/concepts/aias.md)
+[AIAS y Mini Brains](concepts/aias.md)
 
 ## ¿Qué pasa si el razonamiento del estudiante está bien, pero el dato es incorrecto?
 
@@ -51,7 +51,7 @@ El objetivo es **acompañar la mejora**, no solo evaluar si algo está bien o ma
 
 Este tipo de comportamiento se puede observar en los ejemplos de prueba:
 
-[Stress Tests](es/workflow/stress-tests.md)
+[Stress Tests](workflow/stress-tests.md)
 
 ## ¿Necesito saber programar para crear un Mini Brain?
 
@@ -63,11 +63,11 @@ Todo se construye con archivos simples `.md`.
 
 También podés usar el Meta Mini Brain para generar uno a través de una conversación con IA.
 
-[Meta Mini Brain](es/tools/meta-mini-brain.md)
+[Meta Mini Brain](tools/meta-mini-brain.md)
 
 Si querés empezar con una versión más simple del proceso, podés leer esta guía:
 
-[Flujo simplificado](es/workflow/simplified-workflow.md)
+[Flujo simplificado](workflow/simplified-workflow.md)
 
 ## ¿Esto reemplaza la enseñanza?
 
@@ -111,17 +111,17 @@ Vos seguís teniendo el control.
 
 Para entender cómo se construye ese sistema, podés ver el flujo completo:
 
-[Mini Brains Workflow](es/workflow/mini-brains-workflow.md)
+[Mini Brains Workflow](workflow/mini-brains-workflow.md)
 
 ## ¿Cuándo conviene usar el flujo completo y cuándo el flujo simplificado?
 
 Usá el flujo simplificado cuando quieras probar una idea rápido, crear un prototipo, experimentar o generar una primera versión de un Mini Brain.
 
-[Flujo simplificado](es/workflow/simplified-workflow.md)
+[Flujo simplificado](workflow/simplified-workflow.md)
 
 Usá el flujo completo cuando necesites más control, mayor consistencia, mejor alineación con tus objetivos de enseñanza y una base de conocimiento más clara y curada.
 
-[Mini Brains Workflow](es/workflow/mini-brains-workflow.md)
+[Mini Brains Workflow](workflow/mini-brains-workflow.md)
 
 ## ¿Los Mini Brains funcionan en español?
 
@@ -137,7 +137,7 @@ Esto ayuda a que el sistema no solo responda en español, sino que también inic
 
 Para ver el proceso básico de uso, podés leer:
 
-[Cómo usar un Mini Brain](es/guides/how-to-use.md)
+[Cómo usar un Mini Brain](guides/how-to-use.md)
 
 ## ¿Puedo modificar un Mini Brain existente?
 
@@ -155,7 +155,7 @@ La idea es que cada educador pueda construir sistemas pequeños, portables y ada
 
 Si querés partir de una estructura base, podés usar la plantilla:
 
-[Mini Brain Template](mini-brain-template-es.md)
+[Mini Brain Template](tools/mini-brain-template-es.md)
 
 ## ¿Esto sirve solo para educación?
 
@@ -167,4 +167,4 @@ Los Mini Brains también podrían usarse para capacitación corporativa, coachin
 
 La lógica central es la misma: crear un sistema pequeño, portable y con límites claros para una tarea específica.
 
-[Otros casos de uso](es/concepts/use-cases.md)
+[Otros casos de uso](concepts/use-cases.md)
