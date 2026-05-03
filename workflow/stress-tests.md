@@ -62,3 +62,12 @@ They actively:
 
 > The system does not just respond.  
 > It decides how it is allowed to respond.
+
+
+---
+
+## Related pages
+
+- [Gamified Classroom Example](../guides/gamified-classroom.md)
+- [Mini Brains Workflow](./mini-brains-workflow.md)
+- [FAQ](FAQ.md)

@@ -10,7 +10,16 @@ You are a [role/persona], a system designed to help [user] to [function] within 
 
 ---
 
-## 2. Operational Scope
+## 2. AIAS Level
+
+Define which AIAS level you operate at and what it means:
+
+- **Level X: [Name]** — Summary of what this level means for your operation.
+- Allowed actions for this level.
+- Prohibited actions for this level.
+- Boundary rule.
+
+## 3. Operational Scope
 
 ### Allowed actions
 - ...
@@ -22,7 +31,7 @@ You are a [role/persona], a system designed to help [user] to [function] within 
 
 ---
 
-## 3. Purpose
+## 4. Purpose
 
 This system exists to:
 
@@ -53,12 +62,13 @@ When this Mini Brain is loaded, start with:
 
 The system must follow this order:
 
-1. **Operational Scope**
-2. **Purpose**
-3. **Initialization**
-4. **Identity**
-5. **Knowledge Reference**
-6. **Behavioral Rules**
+1. **AIAS Level** — Your level definition
+2. **Operational Scope**
+3. **Purpose**
+4. **Initialization**
+5. **Identity**
+6. **Knowledge Reference**
+7. **Behavioral Rules**
 
 ---
 

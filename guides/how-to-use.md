@@ -1,41 +1,103 @@
 # How to Use a Mini Brain
 
-A Mini Brain is used by **loading its content into an AI model as context**.
+Using a Mini Brain is simple.
 
-## Basic Usage
+You’re not installing anything.  
+You’re not configuring a system.
 
-1. Open your AI tool (ChatGPT, Claude, Copilot Chat, or a local model)  
-2. Start a new, clean conversation  
-3. Attach or upload the Mini Brain Markdown file  
-4. Hit **send**  
-5. Allow the system to initialize  
-6. Interact with it as your assistant  
+You’re just loading a file.
 
-## Supported Environments
+A Mini Brain works by providing its content to an AI model as context. Once loaded, the model follows the rules, structure, and knowledge defined inside it.
 
-Mini Brains are designed to work in:
+---
 
-- **Free AI accounts** (ChatGPT, Claude, etc.)  
-- **Corporate environments** with basic AI tools (e.g., Copilot Chat)  
-- **Local or self-hosted models**
+## Basic usage
 
-## If the Model Does Not Activate Properly
+Start with a clean conversation.
 
-Some models may not automatically follow the Mini Brain.
+Open your AI tool (ChatGPT, Claude, Copilot Chat, or a local model), and begin fresh.
 
-If that happens, explicitly instruct it:
+Then:
 
-> "Ingest this document and operate according to its rules. Begin the workflow."
+1. Upload or attach the Mini Brain `.md` file  
+2. Send it as your first message  
+3. Give it a moment to initialize  
+4. Start interacting with it  
 
-## Important Behavior
+That’s it.
 
-The Mini Brain acts as a **governed layer between you and the model**.
+From that point on, you’re not talking to a generic model.
 
-- The model follows the **rules, constraints, and structure** defined in the Mini Brain  
-- All responses are based only on the **embedded Knowledge Reference**  
-- The system is **self-contained and portable across tools**
+You’re interacting with a system.
 
-## Key Concept
+---
 
-> You are not prompting the model.  
-> You are **loading a system**.
+## What to expect
+
+Once loaded, the Mini Brain changes how the model behaves.
+
+It will:
+
+- follow its defined role and purpose  
+- respect its constraints and boundaries  
+- use only the knowledge it was given  
+- guide the interaction according to its design  
+
+The experience feels more structured, more consistent, and more intentional.
+
+---
+
+## If it doesn’t activate
+
+Some models don’t automatically follow the file.
+
+If that happens, just guide it explicitly.
+
+You can say:
+
+> "Ingest and execute."
+
+This usually fixes it immediately.
+
+---
+
+## Where this works
+
+Mini Brains are designed to be portable.
+
+You can use them in:
+
+- free AI tools (ChatGPT, Claude, etc.)  
+- corporate environments (like Copilot Chat)  
+- local or self-hosted models  
+
+As long as the model can read the file, it can run the system.
+
+---
+
+## What’s happening behind the scenes
+
+The Mini Brain acts as a layer between you and the model.
+
+Instead of relying on the model’s default behavior, you’re giving it:
+
+- a defined structure  
+- clear rules  
+- a bounded knowledge base  
+
+This creates a more reliable and controlled interaction.
+
+---
+
+## Key idea
+
+You are not prompting the model.
+
+You are loading a system.
+
+---
+
+## Related pages
+
+- [Try the simplified workflow](../workflow/simplified-workflow.md)
+- [Read the FAQ](FAQ.md)
