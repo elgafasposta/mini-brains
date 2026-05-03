@@ -101,4 +101,4 @@ Al integrar esta lógica en los Mini Brains, las reglas de uso de la IA dejan de
 AIAS es un framework externo e independiente. Los Mini Brains no reemplazan a AIAS, sino que lo utilizan como cimiento lógico para diseñar interacciones educativas guiadas por reglas claras.
 
 Para consultar la referencia técnica utilizada en el diseño, visitá:  
-[Referencia AIAS para Mini Brains](es/tools/aias-reference.md)
+[Referencia AIAS para Mini Brains](../tools/aias-reference.md)
