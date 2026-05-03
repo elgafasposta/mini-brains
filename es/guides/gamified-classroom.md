@@ -44,7 +44,7 @@ El punto de partida es crítico: aprender a interrogar al sistema.
 
 **Herramienta:** [Ingeniero de máquina de vapor (Nivel 3)](../../minibrains/steam-engine-engineer-level-3.md)
 
-![[es/assets/steam-engine-engineer-3.png|296]]
+![Steam Engine Engineer Level 3](../assets/steam-engine-engineer-3.png)
 
 Este Mini Brain no entrega respuestas; obliga al estudiante a:
 - Refinar sus preguntas.
@@ -59,7 +59,7 @@ Aquí la historia deja de ser un texto estático para volverse una interacción.
 
 **Herramienta:** [Ingeniero de máquina de vapor (Nivel 5)](../../minibrains/steam-engine-engineer-level-5.md)
 
-![[es/assets/steam-engine-engineer-5.png|296]]
+![Steam Engine Engineer Level 5](../assets/steam-engine-engineer-5.png)
 
 Los estudiantes exploran la vida en las fábricas, la técnica y las condiciones laborales. El objetivo es que noten que **toda perspectiva está situada en una posición específica**.
 
@@ -71,7 +71,7 @@ El conflicto entra en escena. La comprensión ya no se entrega; se revela gradua
 
 **Herramienta:** [Activista ludita (Nivel 4)](../../minibrains/luddite-activist-level-4.md)
 
-![[es/assets/luddite-activist.png|296]]
+![Activista ludita](../assets/luddite-activist.png)
 
 El estudiante debe demostrar conocimiento y postura para avanzar, pasando del consumo pasivo a la **participación activa**.
 
@@ -83,7 +83,7 @@ Para fomentar el pensamiento crítico, los estudiantes deben confrontar una visi
 
 **Herramienta:** [Dueño de fábrica victoriano (Nivel 4)](../../minibrains/victorian-factory-owner-level-4.md)
 
-![[es/assets/victorian-factory-owner.png|296]]
+![Dueño de fábrica victoriano](../assets/victorian-factory-owner.png)
 
 Aquí aparecen los sesgos, las justificaciones económicas y las contradicciones. Es el momento donde el análisis crítico se vuelve inevitable.
 
@@ -95,7 +95,7 @@ Durante todo el recorrido, los alumnos tienen acceso a un espacio de pura reflex
 
 **Herramienta:** [Compañero de diálogo socrático (Nivel 3)](../../minibrains/socratic-dialogue-partner-level-3.md)
 
-![[es/assets/socratic-dialogue-partner.png|296]]
+![Compañero de diálogo socrático](../assets/socratic-dialogue-partner.png)
 
 Este sistema desafía supuestos y empuja hacia un razonamiento profundo. La consigna es clara: **el objetivo es pensar, no conseguir la solución**.
 
@@ -107,7 +107,7 @@ Para formalizar lo aprendido y evitar trabajos superficiales.
 
 **Herramienta:** [Metodólogo de investigación (Nivel 3)](../../minibrains/research-methodologist-level-3.md)
 
-![[es/assets/research-methodologist.png|296]]
+![Metodólogo de investigación](../assets/research-methodologist.png)
 
 Ayuda a definir el alcance, organizar la información y dar una estructura sólida al resultado final.
 
@@ -119,7 +119,7 @@ Preparación para la confrontación de ideas.
 
 **Herramienta:** [Coach de preparación para debate (Nivel 3)](../../minibrains/debate-prep-coach-level-3.md)
 
-![[es/assets/debate-prep-coach.png|296]]
+![Coach de preparación para debate](../assets/debate-prep-coach.png)
 
 Aprenden a construir posturas, anticipar contraargumentos y practicar respuestas. El sistema no argumenta por ellos; los entrena para que ellos lo hagan.
 
@@ -131,7 +131,7 @@ El test final de razonamiento.
 
 **Herramienta:** [Inspector de fábrica (Nivel 3)](../../minibrains/factory-inspector-level-3.md)
 
-![[es/assets/factory-inspector.png|296]]
+![Inspector de fábrica](../assets/factory-inspector.png)
 
 Este Mini Brain lanza preguntas impredecibles que premian el pensamiento lógico sobre la memorización.
 
@@ -156,7 +156,7 @@ Al final del proceso, no solo conocen la Revolución Industrial; han aprendido a
 
 ## Seguí explorando
 
-- [Cómo usar un Mini Brain](es/how-to-use.md)
-- [Pruebas de Estrés](es/workflow/stress-tests.md)
-- [AIAS y Mini Brains](es/concepts/aias.md)
-- [Otros casos de uso](es/concepts/use-cases.md)
+- [Cómo usar un Mini Brain](../how-to-use.md)
+- [Pruebas de Estrés](../workflow/stress-tests.md)
+- [AIAS y Mini Brains](../concepts/aias.md)
+- [Otros casos de uso](../concepts/use-cases.md)
