@@ -40,7 +40,7 @@ Un único archivo `.md` que podés:
 
 Descargalo, cargalo a tu IA y pedile que lo ejecute en Español.
 
-👉 [Meta Mini Brain](es/tools/meta-mini-brain.md)
+👉 [Meta Mini Brain](../tools/meta-mini-brain.md)
 
 ---
 
