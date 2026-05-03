@@ -10,7 +10,7 @@ Los Mini Brains permiten a los educadores transformar el conocimiento en interac
 
 ---
 
-![Mini Brains Video Store](../assets/minibrains-video-store.png)
+![Mini Brains Video Store](assets/minibrains-video-store.png)
 
 ---
 
@@ -67,7 +67,7 @@ El objetivo no es reemplazar la capacidad del modelo, sino darle una **estructur
 
 ---
 
-![Mini Brains Overview](../assets/minibrains-tldr.png)
+![Mini Brains Overview](assets/minibrains-tldr.png)
 
 ---
 
@@ -93,7 +93,7 @@ Cada archivo suele integrar las siguientes capas:
 
 ---
 
-![Mini Brain Architecture](../assets/mini-brain-architecture.png)
+![Mini Brain Architecture](assets/mini-brain-architecture.png)
 
 ---
 
@@ -117,7 +117,7 @@ Esto es fundamental en educación: el sistema no ofrece atajos, sino que **guía
 
 ---
 
-![Mini Brain Flow](../assets/mini-brain-flow.png)
+![Mini Brain Flow](assets/mini-brain-flow.png)
 
 ---
 
@@ -149,7 +149,7 @@ El aula deja de ser estática para convertirse en un ecosistema donde se compara
 
 ---
 
-![Classroom with Mini Brains](../assets/classroom-with-minibrains.png)
+![Classroom with Mini Brains](assets/classroom-with-minibrains.png)
 
 ---
 
@@ -161,11 +161,11 @@ El proceso de creación convierte el conocimiento en comportamiento. Inspirado e
 
 El educador decide qué es lo importante y cómo debe ser la experiencia; el agente (OpenClaw, Claude Code, etc.) se encarga de la organización y el mantenimiento del archivo.
 
-[Ver el Workflow completo](../workflow/mini-brains-workflow.md)
+[Ver el Workflow completo](workflow/mini-brains-workflow.md)
 
 ---
 
-![Mini Brains Workflow](../assets/mini-brain-workflow.png)
+![Mini Brains Workflow](assets/mini-brain-workflow.png)
 
 ---
 
