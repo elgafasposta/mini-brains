@@ -73,7 +73,7 @@ asking better questions.
 👉 They use:  
 [Steam Engine Engineer (Level 3)](steam-engine-engineer-level-3.md)
 
-![[assets/steam-engine-engineer-3.png|296]]
+![Steam Engine Engineer Level 3](../assets/steam-engine-engineer-3.png)
 
 This Mini Brain doesn’t give them answers.
 
@@ -96,7 +96,7 @@ Once students can ask better questions, they move into interaction.
 👉 They use:  
 [Steam Engine Engineer (Level 5)](steam-engine-engineer-level-5.md)
 
-![[assets/steam-engine-engineer-5.png|296]]
+![Steam Engine Engineer Level 5](../assets/steam-engine-engineer-5.png)
 
 Now they are not reading about history.
 
@@ -122,7 +122,7 @@ At this point, the classroom introduces conflict.
 👉 They interact with:  
 [Luddite Activist (Level 4)](luddite-activist-level-4.md)
 
-![[assets/luddite-activist.png|296]]
+![Luddite Activist](../assets/luddite-activist.png)
 
 Understanding is not given.
 
@@ -145,7 +145,7 @@ Students are then exposed to a completely different perspective.
 👉 They engage with:  
 [Victorian Factory Owner (Level 4)](victorian-factory-owner-level-4.md)
 
-![[assets/victorian-factory-owner.png|296]]
+![Victorian Factory Owner](../assets/victorian-factory-owner.png)
 
 Here they encounter:
 
@@ -164,7 +164,7 @@ Throughout the process, students have access to a space where answers are not gi
 👉 They use:  
 [Socratic Dialogue Partner (Level 3)](socratic-dialogue-partner-level-3.md)
 
-![[assets/socratic-dialogue-partner.png|296]]
+![Socratic Dialogue Partner](../assets/socratic-dialogue-partner.png)
 
 This Mini Brain:
 
@@ -185,7 +185,7 @@ When students are ready to formalize their work:
 👉 They use:  
 [Research Methodologist (Level 3)](research-methodologist-level-3.md)
 
-![[assets/research-methodologist.png|296]]
+![Research Methodologist](../assets/research-methodologist.png)
 
 This helps them:
 
@@ -205,7 +205,7 @@ Students then move into argumentation.
 👉 They use:  
 [Debate Prep Coach (Level 3)](debate-prep-coach-level-3.md)
 
-![[assets/debate-prep-coach.png|296]]
+![Debate Prep Coach](../assets/debate-prep-coach.png)
 
 They learn to:
 
@@ -227,7 +227,7 @@ Finally, students test what they actually understand.
 👉 They use:  
 [Factory Inspector (Level 3)](factory-inspector-level-3.md)
 
-![[assets/factory-inspector.png|296]]
+![Factory Inspector](../assets/factory-inspector.png)
 
 This Mini Brain:
 
