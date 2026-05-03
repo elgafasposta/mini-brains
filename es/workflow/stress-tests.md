@@ -67,6 +67,6 @@ Actúan de manera proactiva para:
 
 ## Páginas relacionadas
 
-- [Ejemplo de Aula Gamificada](es/guides/gamified-classroom.md)
-- [Workflow de Mini Brains](es/mini-brains-workflow.md)
-- [Preguntas Frecuentes (FAQ)](FAQ_ES.md)
+- [Ejemplo de Aula Gamificada](../guides/gamified-classroom.md)
+- [Workflow de Mini Brains](./mini-brains-workflow.md)
+- [Preguntas Frecuentes (FAQ)](../FAQ_ES.md)
