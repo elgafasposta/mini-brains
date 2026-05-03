@@ -84,5 +84,5 @@ El Mini Brain actúa como una capa inteligente entre vos y el modelo. En lugar d
 
 ## Páginas relacionadas
 
-- [Probá el workflow simplificado](es/workflow/simplified-workflow.md)
-- [Leé las Preguntas Frecuentes (FAQ)](FAQ_ES.md)
+- [Probá el workflow simplificado](../workflow/simplified-workflow.md)
+- [Leé las Preguntas Frecuentes (FAQ)](../FAQ_ES.md)
