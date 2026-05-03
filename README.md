@@ -1,3 +1,4 @@
+**Language:** 🇬🇧 English | [🇪🇸 Español](LEEME.md)
 # Mini Brains
 
 **Portable, loadable AI systems as a single `.md` file.**

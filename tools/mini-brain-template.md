@@ -1,4 +1,4 @@
-# Mini Brain Template (v1)
+# Mini Brain Template (v2)
 
 A Mini Brain is a **self-contained system** that defines how an AI is allowed to behave.
 

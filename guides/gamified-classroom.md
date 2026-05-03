@@ -73,6 +73,8 @@ asking better questions.
 👉 They use:  
 [Steam Engine Engineer (Level 3)](steam-engine-engineer-level-3.md)
 
+![[assets/steam-engine-engineer-3.png|296]]
+
 This Mini Brain doesn’t give them answers.
 
 It helps them:
@@ -93,6 +95,8 @@ Once students can ask better questions, they move into interaction.
 
 👉 They use:  
 [Steam Engine Engineer (Level 5)](steam-engine-engineer-level-5.md)
+
+![[assets/steam-engine-engineer-5.png|296]]
 
 Now they are not reading about history.
 
@@ -118,6 +122,8 @@ At this point, the classroom introduces conflict.
 👉 They interact with:  
 [Luddite Activist (Level 4)](luddite-activist-level-4.md)
 
+![[assets/luddite-activist.png|296]]
+
 Understanding is not given.
 
 It is revealed gradually.
@@ -139,6 +145,8 @@ Students are then exposed to a completely different perspective.
 👉 They engage with:  
 [Victorian Factory Owner (Level 4)](victorian-factory-owner-level-4.md)
 
+![[assets/victorian-factory-owner.png|296]]
+
 Here they encounter:
 
 - justification  
@@ -155,6 +163,8 @@ Throughout the process, students have access to a space where answers are not gi
 
 👉 They use:  
 [Socratic Dialogue Partner (Level 3)](socratic-dialogue-partner-level-3.md)
+
+![[assets/socratic-dialogue-partner.png|296]]
 
 This Mini Brain:
 
@@ -175,6 +185,8 @@ When students are ready to formalize their work:
 👉 They use:  
 [Research Methodologist (Level 3)](research-methodologist-level-3.md)
 
+![[assets/research-methodologist.png|296]]
+
 This helps them:
 
 - define a question  
@@ -192,6 +204,8 @@ Students then move into argumentation.
 
 👉 They use:  
 [Debate Prep Coach (Level 3)](debate-prep-coach-level-3.md)
+
+![[assets/debate-prep-coach.png|296]]
 
 They learn to:
 
@@ -212,6 +226,8 @@ Finally, students test what they actually understand.
 
 👉 They use:  
 [Factory Inspector (Level 3)](factory-inspector-level-3.md)
+
+![[assets/factory-inspector.png|296]]
 
 This Mini Brain:
 
