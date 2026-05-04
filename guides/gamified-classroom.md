@@ -71,7 +71,7 @@ Students begin by working on something simple, but critical:
 asking better questions.
 
 👉 They use:  
-[Steam Engine Engineer (Level 3)](steam-engine-engineer-level-3.md)
+[Steam Engine Engineer (Level 3)](../minibrains/steam-engine-engineer-level-3.md)
 
 ![Steam Engine Engineer Level 3](../assets/steam-engine-engineer-3.png)
 
@@ -94,7 +94,7 @@ It’s on thinking.
 Once students can ask better questions, they move into interaction.
 
 👉 They use:  
-[Steam Engine Engineer (Level 5)](steam-engine-engineer-level-5.md)
+[Steam Engine Engineer (Level 5)](../minibrains/steam-engine-engineer-level-5.md)
 
 ![Steam Engine Engineer Level 5](../assets/steam-engine-engineer-5.png)
 
@@ -120,7 +120,7 @@ And they begin to notice:
 At this point, the classroom introduces conflict.
 
 👉 They interact with:  
-[Luddite Activist (Level 4)](luddite-activist-level-4.md)
+[Luddite Activist (Level 4)](../minibrains/luddite-activist-level-4.md)
 
 ![Luddite Activist](../assets/luddite-activist.png)
 
@@ -143,7 +143,7 @@ This changes the dynamic from:
 Students are then exposed to a completely different perspective.
 
 👉 They engage with:  
-[Victorian Factory Owner (Level 4)](victorian-factory-owner-level-4.md)
+[Victorian Factory Owner (Level 4)](../minibrains/victorian-factory-owner-level-4.md)
 
 ![Victorian Factory Owner](../assets/victorian-factory-owner.png)
 
@@ -162,7 +162,7 @@ This is where critical thinking becomes unavoidable.
 Throughout the process, students have access to a space where answers are not given.
 
 👉 They use:  
-[Socratic Dialogue Partner (Level 3)](socratic-dialogue-partner-level-3.md)
+[Socratic Dialogue Partner (Level 3)](../minibrains/socratic-dialogue-partner-level-3.md)
 
 ![Socratic Dialogue Partner](../assets/socratic-dialogue-partner.png)
 
@@ -183,7 +183,7 @@ It reinforces a key idea:
 When students are ready to formalize their work:
 
 👉 They use:  
-[Research Methodologist (Level 3)](research-methodologist-level-3.md)
+[Research Methodologist (Level 3)](../minibrains/research-methodologist-level-3.md)
 
 ![Research Methodologist](../assets/research-methodologist.png)
 
@@ -203,7 +203,7 @@ It prevents shallow work.
 Students then move into argumentation.
 
 👉 They use:  
-[Debate Prep Coach (Level 3)](debate-prep-coach-level-3.md)
+[Debate Prep Coach (Level 3)](../minibrains/debate-prep-coach-level-3.md)
 
 ![Debate Prep Coach](../assets/debate-prep-coach.png)
 
@@ -225,7 +225,7 @@ It prepares them to argue.
 Finally, students test what they actually understand.
 
 👉 They use:  
-[Factory Inspector (Level 3)](factory-inspector-level-3.md)
+[Factory Inspector (Level 3)](../minibrains/factory-inspector-level-3.md)
 
 ![Factory Inspector](../assets/factory-inspector.png)
 
