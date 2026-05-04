@@ -216,7 +216,7 @@ The classroom becomes dynamic instead of static.
 
 Students explore different perspectives, compare ideas, challenge assumptions, and build understanding through interaction.
 
-[Explore the gamified classroom example](gamified-classroom.md)
+[Explore the gamified classroom example](guides/gamified-classroom.md)
 
 ---
 
