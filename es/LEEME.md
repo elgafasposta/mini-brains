@@ -179,7 +179,7 @@ Si querés experimentar de inmediato, usá el **Meta Mini Brain**. Solo tenés q
 
 ## AIAS: Límites educativos activos
 
-Utilizamos el framework **AIAS** (*Artificial Intelligence Assessment Scale*) no solo como etiqueta, sino como lógica operativa. El nivel AIAS define activamente qué puede apoyar el sistema y qué debe rechazar, garantizando que el estudiante mantenga la responsabilidad de su propio aprendizaje.
+Se utiliza el framework **AIAS** (*Artificial Intelligence Assessment Scale*) no solo como etiqueta, sino como lógica operativa. El nivel AIAS define activamente qué puede apoyar el sistema y qué debe rechazar, garantizando que el estudiante mantenga la responsabilidad de su propio aprendizaje.
 
 [Más sobre AIAS en Mini Brains](concepts/aias.md)
 
@@ -211,7 +211,7 @@ Funciona en ChatGPT, Claude, Copilot y modelos locales (Ollama) sin necesidad de
 
 ## Pruebas de estrés (Stress tests)
 
-Un Mini Brain debe ser resiliente. Nuestras pruebas evalúan cómo responde el sistema cuando un usuario intenta:
+Estas pruebas evalúan cómo responde el sistema cuando un usuario intenta:
 - Evadir el esfuerzo cognitivo.
 - Preguntar fuera del contexto permitido.
 - Anular las instrucciones del sistema (*Prompt injection*).
