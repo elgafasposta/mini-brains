@@ -40,7 +40,7 @@ Mini Brains are not just prompts. They are small, portable systems designed to s
 
 ### Classroom and learning examples
 
-- [Gamified Classroom](minibrains/gamified-classroom.md)
+- [Gamified Classroom](guides/gamified-classroom.md)
 
 ### Concepts
 
